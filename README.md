@@ -1,3 +1,3 @@
 # DV_practice_assinment_theia
-Created to resolve assignment issues 
+Created to resolve assignment issues. /n 
 Hi Pratiksha, today I tried again. No code errors until I placed the dropdown. Then I encountered a missdisplay on the browser, something that is constantly happening (I am trying daily for some days now). So even we fix some possible code problems, there may be still a main problem that has to do with how the browser "translates" or "receives" the code. Yesterday I encountered a socket error (Errno98), but today was ok, probably to a possible refresh(?) of the platform. i am sending you an image that shows browser not changed after the adding af dropdown code.
